@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashasvee Wankhade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate java developer from India</h3>
 
 - 📫 How to reach me **yashasviwankhade2004@gmail.com**
 

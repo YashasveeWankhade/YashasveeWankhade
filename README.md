@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashasvee Wankhade</h1>
-<h3 align="center">Java Developer | Tech Community Leader | Lifelong Learner 🌱</h3>
+<h3 align="center">Code | Collaborate | Create — One Commit at a Time 🚀</h3>
+<h3 align="center">Full-Stack Mindset in a Multi-Threaded World 🌐</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashasveeWankhade&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvee" />
@@ -51,16 +52,6 @@ Whether it's backend logic, UI with React, or exploring new frameworks, I thrive
 - 🧠 I believe in **clean code, practical design**, and **continuous growth**
 - 🧩 I enjoy **debugging** — it's like solving puzzles (with stack traces 😅)
 - 🌐 I thrive in **team environments** where knowledge is shared and built on
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashasveeWankhade&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasveeWankhade&theme=tokyonight" alt="streak" />
-</p>
 
 ---
 

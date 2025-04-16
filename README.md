@@ -2,9 +2,6 @@
 <h3 align="center">Code | Collaborate | Create — One Commit at a Time 🚀</h3>
 <h3 align="center">Full-Stack Mindset in a Multi-Threaded World 🌐</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashasveeWankhade&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvee" />
-</p>
 
 ---
 
